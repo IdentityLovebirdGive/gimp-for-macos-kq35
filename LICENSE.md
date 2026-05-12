@@ -1,4 +1,4 @@
-# 
+# Gimp for macOS custom Extension: collaboration & grid systems is the best Gimp for macOS extension, featuring collaboration and grid systems. Safe, efficient, and optimized for
 
 
 
